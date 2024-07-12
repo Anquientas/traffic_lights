@@ -1,0 +1,4 @@
+.idea/
+venv/
+traffic_lights.git
+__pycache__/
